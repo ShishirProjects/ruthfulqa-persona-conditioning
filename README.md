@@ -1,0 +1,1 @@
+Analysis notebook for the term paper Persona-Invariant Error Structure in TruthfulQA. Ten prompt conditions × 817 TruthfulQA questions on Qwen2.5-3B-Instruct, scored by NLI entailment and by direct multiple-choice evaluation. Run top to bottom in Google Colab with a T4 GPU.
